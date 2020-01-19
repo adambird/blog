@@ -1,5 +1,6 @@
 ---
 title: "Distilling your Team’s Principles"
+description: "As we grow Cronofy, it becomes increasingly important to distill the behaviours and attitudes that got us to where we are today. What are the defining traits of the team that have enabled our success and what does that need to look like as we scale?"
 date: 2018-11-30T21:06:53
 draft: false
 ---

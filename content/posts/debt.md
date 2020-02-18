@@ -45,9 +45,9 @@ Ironically enough, one of the key revealers of technical debt is rapid success. 
 
 This can lead to significant mistrust between teams. Unaware of the trade-offs previously made, the commercial team can feel let down by the technical team. The perception being that sales and marketing are working hard to deliver revenue whilst the technical teams are floundering trying to keep up with demand and delivering a poor experience to customers.
 
-Navigating this requires strong leadership across the business and a high degree of trust. Everyone needs to recognise that trade-offs like accruing technical debt are whole business decisions. Compromises have to me made on all sides.
+Navigating this requires strong leadership across the business and a high degree of trust. Everyone needs to recognise that trade-offs like accruing technical debt are whole business decisions. Compromises have to be made on all sides.
 
-Perhaps sales need to only sell what exists rather than what is coming for the next few months. Maybe markteting need to cobble together a content delivery solution that's not tightly integrated with the product. Engineering have to recognise that there are in diminishing returns territory with an infrastructure upgrade.
+Perhaps sales need to only sell what exists rather than what is coming for the next few months. Maybe marketing need to cobble together a content delivery solution that's not tightly integrated with the product. Engineering have to recognise that they are in diminishing returns territory with an infrastructure upgrade.
 
 Most of all, leadership have to decide whether they want sustainable growth that the product can support.
 
@@ -99,7 +99,7 @@ Another tactic we're going to be experimenting with at Cronofy is [Skip Levels](
 
 ## Is Any Debt Good?
 
-In my experience, cultural debt is the one to try and avoid at all costs. Unfortunately it's also the hardest to avoid. Financial debt requires your business to be in a particular state with strong financial governance. You're either there or your not.
+In my experience, cultural debt is the one to try and avoid at all costs. Unfortunately it's also the hardest to avoid. Financial debt requires your business to be in a particular state with strong financial governance. You're either there or you're not.
 
 In my career organisational debt is the one I've leant most heavily, most successfully on. Having some wobbly plates which require a bit of manual attention now and then is really just a forcing function for prioritisation. You soon learn which plates are the wobbliest for your business and thus which processes are worth investing a bit of time in to streamline or automate.
 

@@ -103,6 +103,8 @@ In my experience, cultural debt is the one to try and avoid at all costs. Unfort
 
 In my career organisational debt is the one I've leant most heavily, most successfully on. Having some wobbly plates which require a bit of manual attention now and then is really just a forcing function for prioritisation. You soon learn which plates are the wobbliest for your business and thus which processes are worth investing a bit of time in to streamline or automate.
 
-It takes a strong, experienced technical team with the backing and trust of the commercial team to successfully navigate technical debt. However it can be a powerful tool to support growth. A true partnership between these sides of the business can enable winning those key accounts really move the business forward. Sometimes though, you just have to let those attractive but distracting prospects go in order to maintain your organisational speed.
+It takes a strong, experienced technical team with the backing and trust of the commercial team to successfully navigate technical debt. It can be a powerful tool to support growth.
+
+A true partnership between these sides of the business can enable winning those key accounts that really move the business forward. Sometimes though, you just have to let those attractive but distracting prospects go in order to maintain your organisational speed.
 
 Debt can be good but only if it's used deliberately and with full awareness if the consequences.

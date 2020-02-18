@@ -1,7 +1,7 @@
 ---
-title: "Distilling your Team’s Principles"
+title: "Principles"
 description: "Understanding your company's culture is crucial to being in control of where you take it."
-date: 2018-11-30T21:06:53
+date: 2018-11-30
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2019-01-24
 draft: false
 ---
 
-Leaders are constantly presented with decisions that will impact both today and tomorrow. At [Cronofy](https://www.cronofy.com) I try to think about tactical and strategic business decisions through the lense of debt. It is a useful mechanic for understanding the true cost.
+Leaders are constantly presented with decisions that will impact both today and tomorrow. At [Cronofy](https://www.cronofy.com) I try to think about tactical and strategic business decisions through the lens of debt. It is a useful mechanic for understanding the true cost.
 
 There are four ways a company can get into debt:
 

@@ -32,7 +32,7 @@ Lenders will often require agreements, covenants, on key financial indicators or
 
 For more on these [this article on Debt Covenants](https://corporatefinanceinstitute.com/resources/knowledge/finance/debt-covenants/) is a good primer.
 
-If you fall outside of the agreed levels of these, the lender will have rights to act to recover their debt. How they decided to do that will have a major impact on your business and quite possibly it's survival.
+If you fall outside of the agreed levels of these, the lender will have rights to act to recover their debt. How they decided to do that will have a major impact on your business and quite possibly its survival.
 
 You absolutely must have a handle on business accountancy if you're planning to use a loan to fund your business. Being able to read and interpret a P&L, a Balance Sheet or even a cashflow statement is not something every founder can do. Which surprises me every time. It's not as exciting as sales or building a product but it does provide the oversight to know whether you can afford to do those things.
 
@@ -61,7 +61,7 @@ All of these things are pretty obvious, if the organisation is communicating rea
 
 Where things get really challenging and hard to pull back from is a surplus or organisation, ie too much process. Too many times processes/policies are created as a result of a specific incident. The second order consequences of policies created in haste can be crippling. Take the following examples.
 
-An employee wants to come in late so they can attend a doctors appointment. They offer to work their lunch to make up the time. This becomes a common practice. Then someone needs a couple of hours because they couldn't get an early appointment. However they offer to work late to make up the missing time.
+An employee wants to come in late so they can attend a doctor's appointment. They offer to work their lunch to make up the time. This becomes a common practice. Then someone needs a couple of hours because they couldn't get an early appointment. However they offer to work late to make up the missing time.
 
 This all sounds reasonable until you consider what this is saying to the entire team: *The company values the time you spend more than the outcomes you deliver*.
 

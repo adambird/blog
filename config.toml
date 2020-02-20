@@ -2,3 +2,13 @@ baseURL = "https://adambird.com/"
 languageCode = "en-GB"
 title = "Bird World"
 theme = "ghostwriter"
+googleAnalytics = "UA-1642022-7"
+
+[Params]
+    linkedin = "https://linkedin.com/in/adambird/"
+    twitter = "https://twitter.com/adambird"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"

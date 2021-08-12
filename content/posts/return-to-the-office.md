@@ -1,6 +1,6 @@
 ---
 title: "How we're managing the return to the office"
-description: "Sharing how we are approaching the engaging with the team and navigating the re-opening of the Cronofy offices."
+description: "Sharing how we are approaching the re-opening of the Cronofy offices."
 date: 2021-05-24
 draft: false
 ---

@@ -35,7 +35,7 @@ So do we accept our fate and forgo this market on our doorstep or do we change t
 
 The answer is pretty simple. It’s time that Cronofy became a European company again. 
 
-We are establishing a new company in the Netherlands and are will offer our customers the option to contract with Cronofy BV under Dutch law. That will become the new HQ for all of our data processing so we can be under the oversight of the Dutch data regulator and thus the EU. Our new General Counsel overseeing all of this is Dutch.
+We are establishing a new company in the Netherlands and will offer our customers the option to contract with Cronofy BV under Dutch law. That will become the new HQ for all of our data processing so we can be under the oversight of the Dutch data regulator and thus the EU. Our new General Counsel overseeing all of this is Dutch.
 
 How does Britain fare out of this? Not very well I’m afraid. Apart from perhaps a temporary fillip for the lawyers who are advising us on the corporate restructure.
 

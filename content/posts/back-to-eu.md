@@ -5,7 +5,7 @@ date: 2021-10-12
 draft: false
 ---
 
-Cronofy is a truly global company. Whilst we're headquartered in the UK, our revenue is split 55% US, 25% EU, 9% UK. EU GDPR legislation has not harmed our US business and in many cases has been an advantage. Having to confront data privacy requirements from the founding of the business puts us at a distinct advantage as US companies wake up to having to protect people's information.
+[Cronofy](https://www.cronofy.com) is a truly global company. Whilst we're headquartered in the UK, our revenue is split 55% US, 25% EU, 9% UK. EU GDPR legislation has not harmed our US business and in many cases has been an advantage. Having to confront data privacy requirements from the founding of the business puts us at a distinct advantage as US companies wake up to having to protect people's information.
 
 The UK government has [announced plans to weaken the UK version of GDPR](https://www.openrightsgroup.org/blog/why-on-earth-is-the-government-mucking-about-with-our-privacy-laws/) which will certainly damage our EU business and may well weaken our US business.
 

@@ -9,7 +9,6 @@ googleAnalytics = "UA-1642022-7"
     intro = true
     description = "CEO and Co-founder at Cronofy. Previously CTO and Co-founder at Esendex. Anti time waster, (ex)developer, cyclist and champion of state education."
     linkedin = "https://linkedin.com/in/adambird/"
-    twitter = "https://twitter.com/adambird"
     opengraph = true
     shareTwitter = true
     shareFacebook = true

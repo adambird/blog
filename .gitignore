@@ -1,3 +1,5 @@
 public
 # Local Netlify folder
 .netlify
+# Hugo build lock file
+.hugo_build.lock

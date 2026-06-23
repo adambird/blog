@@ -1,0 +1,8 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  # Pinned: ghostwriter theme uses .Site.LastChange (removed in Hugo 0.141.0)
+  # and the pre-rename _internal/disqus.html template, so it needs Hugo <= 0.140.x.
+  HUGO_VERSION = "0.140.2"
